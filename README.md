@@ -3,8 +3,7 @@
 A stylish, retro-themed digital scoreboard for basketball games built using **HTML**, **CSS**, and **JavaScript**. Inspired by professional scoreboards, this app uses the **Cursed Timer ULiL** font to give it a bold, game-day look.
 
 ## 🚀 Try it now  
-👉 
-
+👉 https://bbscoreboardliv.netlify.app/
 ---
 
 ## ✨ Features
