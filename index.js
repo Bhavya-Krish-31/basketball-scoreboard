@@ -1,5 +1,3 @@
-console.log("✅ index.js is connected and running");
-
 let hscore = document.getElementById("home-score")
 let hs = 0
 
